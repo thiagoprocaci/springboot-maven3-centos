@@ -55,7 +55,7 @@ $ curl 127.0.0.1:8080
     application GIT repository. In case your application is located in a
     sub-folder, you can set this variable to a *./myapplication*.
 
-*  **APP_TARGET** (default: '')
+*  **APP_TARGET** (default: 'target')
 
     This variable specifies a relative location to your application binary inside the
     container.
